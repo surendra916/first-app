@@ -1,12 +1,16 @@
 
 import { Link,Outlet } from 'react-router-dom';
 import './App.css';
+import Header from './Header';
 
 function App() {
   return (
     <div className="App">
       
       <header className="App-header">
+
+        <Header />
+
         <p> This is a Cool workbook shop </p>
         <h1>
           Surendra Reddy Seelam
