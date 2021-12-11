@@ -10,8 +10,12 @@ function App() {
       <header className="App-header">
 
         <Header />
+        <p>This is crazy from </p>
 
-        <p> This is a Cool workbook shop </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis mi arcu, et dapibus nunc congue sit amet. Nullam ac pharetra augue, ut accumsan libero. Aenean ac libero vehicula, accumsan arcu vel, efficitur elit. Aliquam erat volutpat.
+           Nunc ligula sem, commodo vitae elit at, gravida pulvinar elit. Cras quis tortor tincidunt, venenatis elit ut, malesuada enim. Nam libero nisi, pulvinar eget tempus sed, sodales sed mauris. Aenean non rutrum eros, sed gravida nibh.</p>
+
+          <p> This is a Cool workbook shop </p>
         <h1>
           Surendra Reddy Seelam
         </h1>
