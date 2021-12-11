@@ -10,7 +10,9 @@ function App() {
         <h1>
           Surendra Reddy Seelam
         </h1>
-        <h1>Bookkeeper</h1>
+        <h1>Star Seller's Bookkeeper</h1>
+        <br></br>
+        <h3>This is an Amazing Books shop</h3>
       <nav
         style={{
           borderBottom: "solid 1px",
