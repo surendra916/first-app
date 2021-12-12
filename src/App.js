@@ -2,13 +2,14 @@
 import { Link,Outlet } from 'react-router-dom';
 import './App.css';
 import Header from './Header';
-
+import Header from './Footer';
 function App() {
   return (
     <div className="App">
 
       <header className="App-header">
         <h1>Welcome to the New Era</h1>
+        <Footer />
         <Header />
         <p>This is crazy from </p>
 
