@@ -6,9 +6,9 @@ import Header from './Header';
 function App() {
   return (
     <div className="App">
-      
-      <header className="App-header">
 
+      <header className="App-header">
+        <h1>Welcome to the New Era</h1>
         <Header />
         <p>This is crazy from </p>
 
