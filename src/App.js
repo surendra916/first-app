@@ -6,6 +6,7 @@ import Header from './Footer';
 function App() {
   return (
     <div className="App">
+    <h1>boom </h1>
 
       <header className="App-header">
         <h1>Welcome to the New Era</h1>
